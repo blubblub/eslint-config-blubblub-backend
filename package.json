@@ -1,0 +1,48 @@
+{
+  "name": "@blubblubinc/eslint-config-blubblub-backend",
+  "version": "0.0.0",
+  "description": "ESLint configuration for backend projects of Blub Blub Inc.",
+  "main": "index.js",
+  "author": "Blub Blub Inc.",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blubblub/eslint-config-blubblub-backend"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "blubblub",
+    "javascript",
+    "styleguide",
+    "backend"
+  ],
+  "bugs": {
+    "url": "https://github.com/blubblub/eslint-config-blubblub-backend/issues"
+  },
+  "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
+  "dependencies": {
+    "@blubblubinc/eslint-config-blubblub-base": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "jest": "^26.6.3"
+  },
+  "peerDependencies": {
+    "eslint": "^7.17.0"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
+  "eslintIgnore": [
+    "node_modules",
+    "coverage"
+  ],
+  "engines": {
+    "node": "^10.12.0 || >=12.0.0",
+    "npm": ">=6",
+    "yarn": ">=1"
+  }
+}
