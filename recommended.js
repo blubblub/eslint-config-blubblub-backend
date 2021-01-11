@@ -1,6 +1,7 @@
 module.exports = {
     extends: [
-        './jest',
+        './index.js',
+        './jest.js',
     ],
     rules: {},
 };
