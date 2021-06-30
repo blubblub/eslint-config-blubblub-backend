@@ -3,6 +3,9 @@ module.exports = {
         './index.js',
         './jest.js',
         './mongo.js',
+        './looseComments.js',
     ],
-    rules: {},
+    rules: {
+        'unicorn/require-post-message-target-origin': 0,
+    },
 };
