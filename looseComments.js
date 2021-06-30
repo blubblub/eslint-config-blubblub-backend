@@ -7,6 +7,7 @@ module.exports = {
                 ignoreComments: true,
                 ignoreStrings: true,
                 ignoreUrls: true,
+                ignoreTemplateLiterals: true,
             },
         ],
     },
