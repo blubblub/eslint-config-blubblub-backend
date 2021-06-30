@@ -1,6 +1,6 @@
 {
   "name": "@blubblubinc/eslint-config-blubblub-backend",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "ESLint configuration for backend projects of Blub Blub Inc.",
   "main": "index.js",
   "author": "Blub Blub Inc.",
