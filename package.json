@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
   "dependencies": {
-    "@blubblubinc/eslint-config-blubblub-base": "^0.3.0"
+    "@blubblubinc/eslint-config-blubblub-base": "^0.4.0"
   },
   "devDependencies": {
     "eslint": "^7.17.0",
@@ -34,7 +34,10 @@
     "eslint": "^7.17.0"
   },
   "eslintConfig": {
-    "extends": "./index.js"
+    "extends": "./index.js",
+    "rules": {
+      "unicorn/prefer-module": 0
+    }
   },
   "eslintIgnore": [
     "node_modules",
