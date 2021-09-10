@@ -3,6 +3,7 @@ module.exports = {
         jest: true,
     },
     extends: [
+        '@blubblubinc/blubblub-base/jest',
         './index.js',
     ],
     rules: {
