@@ -311,10 +311,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blubblubinc/eslint-config-blubblub-base@^0.4.0":
-  version "0.4.7"
-  resolved "https://registry.yarnpkg.com/@blubblubinc/eslint-config-blubblub-base/-/eslint-config-blubblub-base-0.4.7.tgz#6820213aa8c0b325a2c72b9a237d1efcfb6fe1f8"
-  integrity sha512-VSR1QEyMwuSfuEhbuaZijjWlSyrajHA8VqxabOWrYSyB6Ml6nRmAoHxY8p3T8kP2GX5UB0r3yD++lPrKM/ubGA==
+"@blubblubinc/eslint-config-blubblub-base@^0.4.8":
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/@blubblubinc/eslint-config-blubblub-base/-/eslint-config-blubblub-base-0.4.8.tgz#1ab76222a5600a5bf393422395237415b5be5724"
+  integrity sha512-O92I3wpCmZqdsc5uBA1TIThAog+XUIIbrMbelq0U4pj/4MOxw1LoxBaR6Fu6YlV4DwaK5lGnQe6UNdK2elYjWg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^5.5.0"
     "@typescript-eslint/parser" "^5.5.0"
