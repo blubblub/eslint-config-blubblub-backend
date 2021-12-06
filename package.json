@@ -27,7 +27,7 @@
     "@blubblubinc/eslint-config-blubblub-base": "^0.4.0"
   },
   "devDependencies": {
-    "eslint": "^7.17.0",
+    "eslint": "^8.4.0",
     "jest": "^27.0.6"
   },
   "peerDependencies": {
