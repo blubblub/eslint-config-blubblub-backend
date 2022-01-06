@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
   "dependencies": {
-    "@blubblubinc/eslint-config-blubblub-base": "^0.4.8"
+    "@blubblubinc/eslint-config-blubblub-base": "^0.5.0"
   },
   "devDependencies": {
     "eslint": "^8.4.0",
