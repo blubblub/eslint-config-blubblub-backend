@@ -27,6 +27,7 @@
     "@blubblubinc/eslint-config-blubblub-base": "^0.5.0"
   },
   "devDependencies": {
+    "@darraghor/eslint-plugin-nestjs-typed": "^3.10.1",
     "eslint": "^8.4.0",
     "jest": "^27.0.6"
   },
