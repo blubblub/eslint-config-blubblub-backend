@@ -9,5 +9,4 @@ module.exports = {
         sourceType: "module",
         ecmaVersion: "es2019",
     },
-    plugins: ["@darraghor/nestjs-typed"],
 };
