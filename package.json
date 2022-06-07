@@ -25,10 +25,10 @@
   "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
   "dependencies": {
     "@blubblubinc/eslint-config-blubblub-base": "^0.6.1",
+    "@darraghor/eslint-plugin-nestjs-typed": "^3.10.1",
     "tsconfig.json": "^1.0.11"
   },
   "devDependencies": {
-    "@darraghor/eslint-plugin-nestjs-typed": "^3.10.1",
     "eslint": "^8.16.0",
     "jest": "^28.1.0",
     "typescript": "^4.7.2"
