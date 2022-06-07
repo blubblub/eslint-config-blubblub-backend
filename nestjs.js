@@ -2,7 +2,9 @@ module.exports = {
     env: {
         es6: true,
     },
-    extends: ['@darraghor/nestjs-typed/recommended'],
+    extends: [
+        './index.js',
+    ],
     parser: '@typescript-eslint/parser',
     parserOptions: {
         ecmaVersion: 2022,
