@@ -1,6 +1,6 @@
 {
   "name": "@blubblubinc/eslint-config-blubblub-backend",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "description": "ESLint configuration for backend projects of Blub Blub Inc.",
   "main": "index.js",
   "author": "Blub Blub Inc.",
@@ -25,7 +25,6 @@
   "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
   "dependencies": {
     "@blubblubinc/eslint-config-blubblub-base": "^0.6.1",
-    "@darraghor/eslint-plugin-nestjs-typed": "^3.10.1",
     "tsconfig.json": "^1.0.11"
   },
   "devDependencies": {
