@@ -25,6 +25,7 @@
   "homepage": "https://github.com/blubblub/eslint-config-blubblub-backend#readme",
   "dependencies": {
     "@blubblubinc/eslint-config-blubblub-base": "^0.6.1",
+    "minimist": "^1.2.6",
     "tsconfig.json": "^1.0.11"
   },
   "devDependencies": {
